@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SportyCars</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Bahasa</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_articles">Artickel</string>
+    <string name="setting_en">Bahasa Inggris</string>
+    <string name="setting_id">Bahasa Indonesia</string>
+
+    <string name="greeting_message">Selamat datang di Mobil Kami</string>
+
+    <string name="car1">Bugatti Chiron</string>
+    <string name="car2">Mercedes-AMG GT</string>
+    <string name="car3">McLaren 720S</string>
+    <string name="car4">Aston Martin DB11</string>
+    <string name="car5">Ferrari 812 Superfast</string>
+    <string name="car6">Lamborghini Aventador</string>
+    <string name="car7">Koenigsegg Regera</string>
+    <string name="car8">Aston Martin Vanquish</string>
+    <string name="car9">Honda Acura NSX</string>
+    <string name="car10">Nissan GT-R</string>
+
+    <string name="desc1">Inilah mobil sport terbaik di dunia. Pasalnya Bugatti Chiron dinobatkan sebagai mobil tercepat di dunia. Hal ini tak lepas dari mesin 8.0 Liter 16 Silinder yang menggunakan 4 buah turbocharger, sehingga mamp menghasilkan tenaga sebsar 1500 Horsepower.</string>
+</resources>

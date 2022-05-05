@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SportyCars</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Language</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_articles">Articles</string>
+    <string name="setting_en">English</string>
+    <string name="setting_id">Indonesian</string>
+
+    <string name="greeting_message">Welcome to Our Cars</string>
+
+    <string name="car1">Bugatti Chiron</string>
+    <string name="car2">Mercedes-AMG GT</string>
+    <string name="car3">McLaren 720S</string>
+    <string name="car4">Aston Martin DB11</string>
+    <string name="car5">Ferrari 812 Superfast</string>
+    <string name="car6">Lamborghini Aventador</string>
+    <string name="car7">Koenigsegg Regera</string>
+    <string name="car8">Aston Martin Vanquish</string>
+    <string name="car9">Honda Acura NSX</string>
+    <string name="car10">Nissan GT-R</string>
+
+    <string name="desc1">This is the best sports car in the world. Bugatti Chiron has been named the fastest car in the world. This cannot be separated from the 8.0 Liter 16 Cylinder engine that uses 4 turbochargers, so that the mamp produces power as much as 1500 Horsepower.</string>
+</resources>
